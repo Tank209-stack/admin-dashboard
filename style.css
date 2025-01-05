@@ -35,8 +35,6 @@ html ,body{
     padding-bottom: 40px;
 }
 .header{
-    display: grid;
-    grid-column-start: 2;
     background-color: palevioletred;
 }
 
