@@ -9,7 +9,7 @@ html ,body{
     font-family: 'Roboto', sans-serif;
 }
 .sidebar{
-    background-color: blue;
+    background-color: rgb(56, 145, 245);
     color: white;
     display: grid;
     grid-template-columns: repeat(1 , minmax(250px , 1fr));
